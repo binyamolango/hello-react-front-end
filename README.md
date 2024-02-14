@@ -19,20 +19,17 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Hello Rails React <a name="about-project"></a>
+# 📖 Hello React Front End <a name="about-project"></a>
 
-**Hello Rails React** is a straightforward web application that merges the capabilities of Ruby on Rails and React. Users can retrieve a random greeting from the backend API through this platform.
+**Hello React Front End** is a straightforward web application that merges the capabilities of fetching a random greeting from the backend API through this platform.
 
 ## 🛠 Built With <a name="built-with"></a>
-Ruby on Rails, node, Visual Studia Code, WSL
+React, node, Visual Studio Code
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- **Ruby on Rails**
 - **React**
 - **Redux**
-- **PostgreSQL**
-- **WSL**
 
 ### Key Features <a name="key-features"></a>
 
@@ -48,11 +45,10 @@ Ruby on Rails, node, Visual Studia Code, WSL
 
 In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
 
-  https://github.com/binyamolango/hello-rails-react
+  https://github.com/binyamolango/hello-react-front-end
 
 ### Prerequisites <a name="prerequisites"></a>
 
-  Ruby on Rails
   Node
   Git
 
@@ -78,7 +74,7 @@ To run the project, execute the following command:
 To test, run:
 
 ```
-  rspec
+  npm test
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
